@@ -27,7 +27,7 @@
         },
         {
             "command": "issues",
-            "description": "Displays the issues with the Xre Repository",
+            "description": "Displays the issues with the Sid Repository",
             "usage": "issues"
         }
     ],

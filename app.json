@@ -1,5 +1,5 @@
 {
-  "name": "WhatsApp-Botto-xRe",
+  "name": "Daddysid",
   "description": "Well....",
   "keywords": [
     "bot",
@@ -17,7 +17,7 @@
   "success_url": "/",
   "env": {
     "BOT_NAME": {
-      "description": "Name of your bot"
+      "description": "Sid ki bandi"
     },
     "PREFIX": {
       "description": "Prefix of your bot"
